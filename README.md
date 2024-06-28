@@ -1,1 +1,1 @@
-# retrieval-augmented-generation-experiments
+# Retrieval Augmented Generation (RAG) Experiments
